@@ -17,7 +17,6 @@ for i in range(1, 1000000):
     if digits(i) == digits(t[0]) == digits(t[1]) == digits(t[2]) ==digits(t[3]) ==\
             digits(t[4]):
         print "%d worked" %i
-        quit()
 
 
 """
